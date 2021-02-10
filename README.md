@@ -1,0 +1,1 @@
+This is an exploration of local authority climate action plans and how they approach EVs and related infrastructure. It consists of a jupyter notebook that uses basic NLP techniques to extract relevant parts of local authority policy documents. 
