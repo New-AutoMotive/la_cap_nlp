@@ -2,3 +2,5 @@
 .vscode/settings.json
 *.pdf
 *.txt
+.~lock.keywords.csv#
+keywords.csv
