@@ -1,6 +1,8 @@
-
+/Data/
+/.ipynb_checkpoints/
 .vscode/settings.json
 *.pdf
 *.txt
+!requirements.txt
 .~lock.keywords.csv#
 keywords.csv

@@ -1,0 +1,6 @@
+pandas-ods-reader
+folium
+PyPDF2
+pdfplumber
+pdfx
+nltk
